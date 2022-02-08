@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="arg1">argument 1</string>
+    <string name="arg2">argument 2</string>
+    <string name="add">+</string>
+    <string name="subtr">-</string>
+    <string name="mul">*</string>
+    <string name="divide">/</string>
+    <string name="answer">Result</string>
+    <string name="div_zero">Div by zero</string>
+    <string name="inp_err">Input Error</string>
+</resources>
