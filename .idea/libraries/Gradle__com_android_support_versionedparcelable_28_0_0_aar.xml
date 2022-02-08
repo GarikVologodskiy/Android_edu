@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:versionedparcelable:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fd6c9011b9b31caf16beb6d24141ff07/transformed/versionedparcelable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de3a10f496754f8dbd5f5ca0fdf0286a/transformed/versionedparcelable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dab5a9d829db9065d15d36fe994e7866/transformed/versionedparcelable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e6b105db848cd246f6d2aaa762b21fee/transformed/versionedparcelable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6fb4337fb739c8f5894a03705018736d/transformed/versionedparcelable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7e37b2a59f593f68cfde4f91f59c928b/transformed/versionedparcelable-28.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7e37b2a59f593f68cfde4f91f59c928b/transformed/versionedparcelable-28.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7e37b2a59f593f68cfde4f91f59c928b/transformed/versionedparcelable-28.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

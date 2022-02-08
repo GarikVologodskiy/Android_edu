@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_marginVertical">20dp</dimen>
+    <dimen name="min_padding">10dp</dimen>
+
+</resources>

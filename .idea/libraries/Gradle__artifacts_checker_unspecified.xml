@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:checker:unspecified">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/app-debug.aar/e463dc3dcebbfbaabb85b4bef6076b05/res" />
+      <root url="file://$PROJECT_DIR$/checker/build/.transforms/2e86ad03205d4b4873f88f687f97c471/transformed/app-debug/res" />
+      <root url="file://$PROJECT_DIR$/checker/build/.transforms/60806915976e97e4b7e89d5e5f969970/transformed/app-debug/res" />
+      <root url="file://$PROJECT_DIR$/checker/build/.transforms/ed23e5bc6f330119cc6f9af82b809a46/transformed/app-debug/res" />
+      <root url="file://$PROJECT_DIR$/checker/build/.transforms/cb4b95b48491a4ac0a62bdc46ce319d8/transformed/app-debug/res" />
+      <root url="file://$PROJECT_DIR$/checker/build/.transforms/c7c12418b08ee9bd5bc69b02b8f5e18b/transformed/app-debug/res" />
+      <root url="file://$PROJECT_DIR$/checker/build/.transforms/81eb95f8a9d56d69d9a3eb25c8ab89fb/transformed/app-debug/res" />
+      <root url="jar://$PROJECT_DIR$/checker/build/.transforms/81eb95f8a9d56d69d9a3eb25c8ab89fb/transformed/app-debug/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/checker/build/.transforms/81eb95f8a9d56d69d9a3eb25c8ab89fb/transformed/app-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
